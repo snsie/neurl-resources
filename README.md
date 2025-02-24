@@ -26,8 +26,8 @@ NeuRL is available at [neu-rl.netlify.app](https://neu-rl.netlify.app). No insta
 4. **Explore Neural Network Structures:** Gain insights into how different network hyperparameters affect learning efficiency.
 
 ### For Instructors
--. **Use the Pre-Built Lesson:** Guide students through structured learning modules. More lessons will be added in the future.
--. **Encourage Exploration:** Allow students to manipulate parameters in the playground mode for deeper understanding.
+- **Use the Pre-Built Lesson:** Guide students through structured learning modules. More lessons will be added in the future.
+- **Encourage Exploration:** Allow students to manipulate parameters in the playground mode for deeper understanding.
 
 ## Future Developments
 - **More Customization Options:** Allow users to define their own reward functions.
