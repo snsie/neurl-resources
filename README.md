@@ -29,6 +29,9 @@ NeuRL is available at [neu-rl.netlify.app](https://neu-rl.netlify.app). No insta
 - **Use the Pre-Built Lesson:** Guide students through structured learning modules. More lessons will be added in the future.
 - **Encourage Exploration:** Allow students to manipulate parameters in the playground mode for deeper understanding.
 
+## Video Resources
+*Video Sources Coming Soon*
+
 ## Future Developments
 - **More Customization Options:** Allow users to define their own reward functions.
 - **Enhanced Analytics:** Deeper insights into learning progress and decision-making.
